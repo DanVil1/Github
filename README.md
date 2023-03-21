@@ -1,25 +1,30 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-Hy4t4hTlTgTJ+nOw+uCy7Pp3MzvOJ3D2fjqYuG2+aXQlPhKKvt7kD12AkUSuV7Gz" crossorigin="anonymous">
+# Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-# <Your Name>
+## 🚀 About Me
 
-Hello! I'm a software developer currently working on projects related to <insert your field>. 
+🎓 I'm Daniel, a **Software Developer**.
 
-## Skills
+## 🛠️ Skills
 
-- Programming languages: 
-  - <i class="fab fa-python"></i> Python
-  - <i class="fab fa-java"></i> Java
-- Tools and technologies:
-  - <i class="fab fa-git"></i> Git
-  - <i class="fab fa-docker"></i> Docker
+### Languages
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![bash](https://img.shields.io/badge/Bash-28B6F\?style=for-the-badge&logo=bash&logoColor=white)
 
-## Projects
+### Front-End Development
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
+![vueJS](https://img.shields.io/badge/VueJS-20232A?style=for-the-badge&logo=vuejs&logoColor=61DAFB)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- <Insert project name and a brief description>
-- <Insert project name and a brief description>
+### Cross Platform Development
+![ionic](https://img.shields.io/badge/Ionic-28B6F6?style=for-the-badge&logo=ionic&logoColor=white)
+![reactnative](https://img.shields.io/badge/ReactNative-2C2E3B?style=for-the-badge&logo=reactnative&logoColor=white)
 
-## Contact
+### Testing
+![cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 
-You can reach me at <insert your email address>.
-  
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://daniel-villalobos.netlify.app/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel.e.villalobos.f@gmail.com)
