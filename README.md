@@ -41,7 +41,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/Mchzks/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mchzks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=000000&icon_color=F55442&text_color=F55442&bg_color=161b22f2" width="375" alt="Mchzks"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mchzks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=F55442&text_color=F55442&bg_color=161b22f2" width="375" alt="Mchzks"/>
   </a>
 </div>
 
