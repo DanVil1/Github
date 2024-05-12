@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="29px"> Hi, I'm Daniel!
+  Hi, I'm Daniel!
 </h1>
 
 <p align="center">
