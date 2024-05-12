@@ -6,7 +6,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F55442&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;DevOps+Specialist,;Database+Administrator,;UX/UI+Designer"></a>
 </p>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+  # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+</div>
 <div align="center">
   <a href="https://github.com/Mchzks/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mchzks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=F55442&icon_color=F55442&text_color=F55442&bg_color=161b22f2" width="375" alt="Mchzks"/>
