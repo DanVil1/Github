@@ -19,7 +19,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 ![vueJS](https://img.shields.io/badge/VueJS-20232A?style=for-the-badge&logo=vuejs&logoColor=61DAFB)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Cross Platform Development
 ![ionic](https://img.shields.io/badge/Ionic-28B6F6?style=for-the-badge&logo=ionic&logoColor=white)
@@ -28,6 +27,10 @@
 ### Testing
 ![cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 
-## 🔗 Links
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+
+
+## 🔗 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Contact Me 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://daniel-villalobos.netlify.app/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel.e.villalobos.f@gmail.com)
