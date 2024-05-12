@@ -19,6 +19,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
