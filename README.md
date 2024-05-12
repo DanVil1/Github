@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV6a2tibW53emMzbWI2cDJldWowd2lvN20yb2VwaXNieTR5MG5zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzmzomJrpmygenBsiU/giphy.gif" width="35">
+    <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35">
     <b>Tech Stack</b>
   </h1>
 
