@@ -29,6 +29,11 @@
   </a>
 </div>
 
+<div align="center">
+
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35"> Contact Me 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://daniel-villalobos.netlify.app/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel.e.villalobos.f@gmail.com)
+
+</div>
+
