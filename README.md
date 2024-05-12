@@ -8,10 +8,9 @@
 
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    <img src="https://giphy.com/gifs/gears-setting-configure-LESpNIDaNBUcRIPzng" width="35">
     <b>Tech Stack</b>
   </h1>
-  
 
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
