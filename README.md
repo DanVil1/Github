@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F55442&random=false&width=600&width=600&lines=Front-End+Developer;DevOps+Specialist;Database+Administrator;UX%2FUI+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&pause=1000&color=F55442&random=false&width=600height=100&lines=Front-End+Developer;DevOps+Specialist;Database+Administrator;UX%2FUI+Designer" alt="Typing SVG" /></a>
 </p>
 
 ## 🛠️ Skills
