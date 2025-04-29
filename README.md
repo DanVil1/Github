@@ -17,21 +17,20 @@
   ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
   ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 
-  ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
-  ![Jest](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
-  ![Karma](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)&nbsp;
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)&nbsp;
+
+  ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)&nbsp;
+  ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)&nbsp;
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)&nbsp;
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
-  ![Azure](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-  
-  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=339933)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-  
-  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)&nbsp;
+  ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)&nbsp;
 
+  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+  ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)&nbsp;
 </div>
 
 <div align="center">
