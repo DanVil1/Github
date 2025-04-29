@@ -12,9 +12,9 @@
     <b>Tech Stack</b>
   </h1>
 
-  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)&nbsp;
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
   ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
