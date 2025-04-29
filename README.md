@@ -2,9 +2,9 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Hi, I'm Daniel! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 </h1>
 
-<p align="center">
+<div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F55442&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;DevOps+Specialist,;UX/UI+Designer">
-</p>
+</div>
 
 <div align="center">
   <h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35"><b>Tech Stack</b></h1>
