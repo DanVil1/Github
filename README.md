@@ -41,8 +41,8 @@
   </h1>
 </div>
 <div align="center">
-  <a href="https://github.com/Mchzks/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mchzks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=F55442&text_color=ffffff&bg_color=161b22f2" width="375" alt="Mchzks"/>
+  <a href="https://github.com/DanVil1/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanVil1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=F55442&text_color=ffffff&bg_color=161b22f2" width="375" alt="DanVil1"/>
   </a>
 </div>
 
