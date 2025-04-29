@@ -14,41 +14,43 @@
 
 ## Tech Stack
 
-**Frontend**
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 
-![Next.js](URL_to_Nextjs_icon) &nbsp; ![Ionic](URL_to_Ionic_icon) &nbsp; ![Angular](URL_to_Angular_icon) &nbsp; ![Vue](URL_to_Vue_icon)
-*Next.js, Ionic, Angular, Vue*
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 
----
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
-**Testing Tools**
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 
-![Cypress](URL_to_Cypress_icon) &nbsp; ![Jest](URL_to_Jest_icon) &nbsp; ![Karma](URL_to_Karma_icon)
-*Cypress, Jest, Karma*
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
----
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 
-**Cloud Providers & Containerization**
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
-![AWS](URL_to_AWS_icon) &nbsp; ![GCP](URL_to_GCP_icon) &nbsp; ![Azure](URL_to_Azure_icon) &nbsp; ![Docker](URL_to_Docker_icon)
-*AWS, GCP, Azure, Docker*
-*(Note: AWS has been included as requested. Docker is often used alongside cloud providers for containerization).*
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 
----
 
-**Version Control**
 
-![Git](URL_to_Git_icon) &nbsp; ![GitHub](URL_to_GitHub_icon) &nbsp; ![Bitbucket](URL_to_Bitbucket_icon)
-*Git, GitHub, Bitbucket*
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
----
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
 
-**UI Tools**
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-![Storybook](URL_to_Storybook_icon) &nbsp; ![Figma](URL_to_Figma_icon)
-*Storybook, Figma*
+![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white)
 
----
+
+
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=339933)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+
+
+
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 </div>
 
