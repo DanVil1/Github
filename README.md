@@ -7,12 +7,16 @@
 </p>
 
 <div align="center">
-  <h1>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35">
-    <b>Tech Stack</b>
-  </h1>
 
-## Tech Stack
+  <h1>
+
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35">
+
+    <b>Tech Stack</b>
+
+  </h1>
+
+
 
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 
@@ -51,6 +55,8 @@
 
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+
 
 </div>
 
