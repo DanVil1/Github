@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-  <h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35"><b>Tech Stack</b></h1>
+  <h1>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35"><b>Tech Stack</b>
+  </h1>
 
   ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)&nbsp;
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)&nbsp;
