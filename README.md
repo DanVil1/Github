@@ -7,56 +7,30 @@
 </p>
 
 <div align="center">
-
   <h1>
-
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35">
-
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tqZm9zN3V5ajN4M3Q3cGx3djY5amM5bHFpOXVnMmptNjNhbndlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif" width="35">
     <b>Tech Stack</b>
-
   </h1>
 
-
-
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-
-![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
-
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
-
-
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
-
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-
-![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white)
-
-
-
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=339933)&nbsp;
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-
-
-
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-
+  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+  ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
+  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+  ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+  
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white)
+  
+  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=339933)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+  
+  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 </div>
 
